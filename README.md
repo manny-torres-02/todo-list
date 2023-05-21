@@ -1,3 +1,12 @@
+# things Manny Needs to do with this one. 
+- [ ] center it 
+- [ ] add color 
+- [ ] Add features
+- [ ] add card component to task
+- [ ] task crossed off move elsewhere? 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
